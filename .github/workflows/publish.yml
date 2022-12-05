@@ -28,7 +28,7 @@ jobs:
         rm -rf ${{ env.BLOG_DIR }}/_commonMD && mkdir ${{ env.BLOG_DIR}}/_commonMD
         ~/.cargo/bin/obsidian-export ./${{ env.MD_DIR }}/${{ env.PUBLISH_DIR }} ${{ env.BLOG_DIR }}/_commonMD
 
-        mv ${{ env.BLOG_DIR}}/* .
+        cp -r ${{ env.BLOG_DIR}}/. .
         rm -rf ${{ env.BLOG_DIR }}
         rm -rf ${{ env.MD_DIR }}
     - uses: amondnet/vercel-action@v20 #deploy
