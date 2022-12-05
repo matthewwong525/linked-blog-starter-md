@@ -1,4 +1,7 @@
 name: Publish Markdown Files
+env:
+  VERCEL_ORG_ID: matthewwong525 # TODO: Change this
+  VERCEL_PROJECT_ID: linked-blog-md # TODO: Change this
 on: [push]
 jobs:
   publish:
@@ -21,11 +24,9 @@ jobs:
       run: |
         cargo install obsidian-export
         ~/.cargo/bin/obsidian-export md blog/_commonMD
-    - run: cd blog
-    - run: ls
-    - uses: amondnet/vercel-action@v20
-      with:
-        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required (create one in Vercel > Settings > Tokens)
-        vercel-org-id: matthewwong525 # Required (aka user name)
-        vercel-project-id: linked-blog-md # Required (aka project name)
-        working-directory: ./blog
+    - name: Install Vercel & Deploy
+      run: |
+        npm install --global vercel@latest
+        vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
+        vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+        vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
