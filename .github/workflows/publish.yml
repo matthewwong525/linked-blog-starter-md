@@ -7,15 +7,15 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        path: md
     - name: Checkout linked blog starter repo
       uses: actions/checkout@v3
       with:
         repository: ${{ env.BLOG_REPO }}
-        path: blog
+    - run: rm -rf _commonMD
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        path: _commonMD
     - name: Install Rust / cargo
       uses: actions-rs/toolchain@v1
       with:
@@ -24,10 +24,8 @@ jobs:
       run: |
         cargo install obsidian-export
         ~/.cargo/bin/obsidian-export md/${{ env.PUBLISH_DIR }} blog/_commonMD
-    - name: Install Vercel & Deploy
-      run: |
-        cd blog
-        npm install --global vercel@latest
-        vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
-        vercel build --prod --token=${{ secrets.VERCEL_ORG_ID }}
-        vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_PROJECT_ID }}
+    - uses: amondnet/vercel-action@v20 #deploy
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+        vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
+        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required 
