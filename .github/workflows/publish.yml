@@ -27,8 +27,8 @@ jobs:
     - name: Install and run obsidian-export
       run: |
         cargo install obsidian-export
-        rm -rf ${{ env.BLOG_DIR }}/_commonMD && mkdir ${{ env.BLOG_DIR }}/_commonMD
-        ~/.cargo/bin/obsidian-export ./${{ env.MD_DIR }}/${{ env.PUBLISH_DIR }} ${{ env.BLOG_DIR }}/_commonMD
+        rm -rf ${{ env.BLOG_DIR }}/common_md && mkdir ${{ env.BLOG_DIR }}/common_md
+        ~/.cargo/bin/obsidian-export ./${{ env.MD_DIR }}/${{ env.PUBLISH_DIR }} ${{ env.BLOG_DIR }}/common_md
     - name: Move blog dir to currDir
       run: |
         cp -r ${{ env.BLOG_DIR }}/. .
