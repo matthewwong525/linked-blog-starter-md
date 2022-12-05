@@ -1,7 +1,7 @@
 name: Publish Markdown Files
 env:
   BLOG_REPO: matthewwong525/linked-blog-starter
-  PUBLISH_DIR: . # root directory
+  PUBLISH_DIR: publish
   MD_DIR: temp_md
   BLOG_DIR: temp_blog
 on:
