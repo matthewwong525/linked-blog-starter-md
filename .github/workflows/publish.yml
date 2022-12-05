@@ -11,11 +11,10 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: ${{ env.BLOG_REPO }}
-    - run: rm -rf _commonMD
     - name: Checkout
       uses: actions/checkout@v3
       with:
-        path: _commonMD
+        path: ../md
     - name: Install Rust / cargo
       uses: actions-rs/toolchain@v1
       with:
@@ -23,7 +22,8 @@ jobs:
     - name: Install and run obsidian-export
       run: |
         cargo install obsidian-export
-        ~/.cargo/bin/obsidian-export md/${{ env.PUBLISH_DIR }} blog/_commonMD
+        rm -rf _commonMD && mkdir _commonMD
+        ~/.cargo/bin/obsidian-export ../md/${{ env.PUBLISH_DIR }} blog/_commonMD
     - uses: amondnet/vercel-action@v20 #deploy
       with:
         vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
