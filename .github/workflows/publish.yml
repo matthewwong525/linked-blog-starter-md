@@ -24,7 +24,7 @@ jobs:
       run: |
         cargo install obsidian-export
         rm -rf temp_blog/_commonMD && mkdir temp_blog/_commonMD
-        ~/.cargo/bin/obsidian-export ../md/${{ env.PUBLISH_DIR }} temp_blog/_commonMD
+        ~/.cargo/bin/obsidian-export ../temp_md/${{ env.PUBLISH_DIR }} temp_blog/_commonMD
         mv temp_blog/.[!.]* .
         rm -rf temp_blog
     - uses: amondnet/vercel-action@v20 #deploy
