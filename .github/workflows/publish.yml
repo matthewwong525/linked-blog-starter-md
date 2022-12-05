@@ -7,16 +7,21 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
       with:
-        path: main
+        path: md
     - name: Checkout linked blog starter repo
       uses: actions/checkout@v3
       with:
         repository: matthewwong525/linked-blog-starter
-        path: main
+        path: blog
     - name: Install obsidian-export
       uses: actions-rs/toolchain@v1
       with:
         toolchain: stable
-    - run: ls
     - run: cargo install obsidian-export
-    - run: ~/.cargo/bin/obsidian-export
+    - run: ~/.cargo/bin/obsidian-export md blog/_commonMD
+    - uses: amondnet/vercel-action@v20
+      with:
+        vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+        vercel-org-id: matthewwong525 # Required aka user name
+        vercel-project-id: linked-blog-md # Required aka project name
+        working-directory: ./blog
