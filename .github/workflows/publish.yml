@@ -26,6 +26,7 @@ jobs:
         ~/.cargo/bin/obsidian-export md blog/_commonMD
     - name: Install Vercel & Deploy
       run: |
+        cd blog
         npm install --global vercel@latest
         vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
         vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
