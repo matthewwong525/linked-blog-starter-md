@@ -17,9 +17,14 @@ jobs:
       uses: actions-rs/toolchain@v1
       with:
         toolchain: stable
-    - run: cargo install obsidian-export
+    - name: Install obsidian-export via Cargo
+      uses: baptiste0928/cargo-install@v1
+      with:
+        crate: obsidian-export
+        version: "22.11.0"  # Most recent version compatible with 0.9
     - run: ~/.cargo/bin/obsidian-export md blog/_commonMD
     - run: cd blog
+    - run: ls
     - uses: amondnet/vercel-action@v20
       with:
         vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required (create one in Vercel > Settings > Tokens)
