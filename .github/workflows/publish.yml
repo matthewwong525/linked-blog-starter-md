@@ -27,16 +27,17 @@ jobs:
     - name: Install and run obsidian-export
       run: |
         cargo install obsidian-export
-        rm -rf ${{ env.BLOG_DIR }}/_commonMD && mkdir ${{ env.BLOG_DIR}}/_commonMD
+        rm -rf ${{ env.BLOG_DIR }}/_commonMD && mkdir ${{ env.BLOG_DIR }}/_commonMD
         ~/.cargo/bin/obsidian-export ./${{ env.MD_DIR }}/${{ env.PUBLISH_DIR }} ${{ env.BLOG_DIR }}/_commonMD
     - name: Move blog dir to currDir
       run: |
-        cp -r ${{ env.BLOG_DIR}}/. .
+        cp -r ${{ env.BLOG_DIR }}/. .
         rm -rf ${{ env.BLOG_DIR }}
         rm -rf ${{ env.MD_DIR }}
-    - name: Deploy vercel
-      uses: amondnet/vercel-action@v20 #deploy
+    - name: Deploy Vercel
+      uses: amondnet/vercel-action@v20
       with:
+        # TODO: Update Github Secrets with values
         vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
-        vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}  #Required
-        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}} #Required 
+        vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}  # Required
+        vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required 
