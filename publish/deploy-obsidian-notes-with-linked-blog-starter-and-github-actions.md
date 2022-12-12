@@ -18,6 +18,8 @@ By the end of this tutorial, you'll have a github repository that will automatic
 ![[enable-actions-github.png]]
 10. Now whenever any notes are uploaded to the `publish` directory of the repository, they are automatically published online! You can find the domain in Vercel under `Projects`.
 
+**Note**: Make sure you don't delete the `/publish/home.md` file as that is your "landing page"
+
 Additional Readings
 - [[connect-obsidian-vault-with-github|How to connect Obsidian with Github]]
 - [[update-publish-settings-github-actions|Updating the publish settings]]
