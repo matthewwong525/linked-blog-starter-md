@@ -25,8 +25,8 @@ Only deploy through this method, if you want to get a quick server up and runnin
 
 Deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
 
-## Create a Custom Fork 
-Here is an example of how I [forked this repo](https://fleetingnotes.app/) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See how you can do something similar [[deploy-a-custom-linked-blog-starter|here]].
+## Create a Custom Fork
+Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See how you can do something similar [[deploy-a-custom-linked-blog-starter|here]].
 
 ![[fn-website-demo.gif]]
 
