@@ -29,6 +29,6 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 # Notes
 - `linked-blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
-- Markdown files are statically generated
-- Html is generated using [generated GitHub flavoured markdown](https://github.com/sindresorhus/github-markdown-css)
+- Markdown files are [[statically-generated|statically generated]]
+- Markdown is styled using [generated GitHub flavoured markdown](https://github.com/sindresorhus/github-markdown-css)
 
