@@ -20,7 +20,7 @@ Here are the [docs for Next.JS](https://nextjs.org/docs) and a few things to kno
 - The `/common_md/` directory is where the markdown files are stored in the [common markdown](https://commonmark.org/) format. Use [obsidian-export](https://github.com/zoni/obsidian-export) to convert your notes to common markdown
 
 ## Publish the repository and link it with an MD repository
-1. [[publish-your-obsidian-notes-with-linked-blog-starter|Create and publish]] your forked md repository
-2. [[update-publish-settings-github-actions|Update the `BLOG_REPO` environment variable]] to point to your forked repo
+1.  [[publish-your-obsidian-notes-with-linked-blog-starter|Create and publish]] your forked md repository
+2. Update the [[update-publish-settings-github-actions|`BLOG_REPO` environment variable]] to point to your forked repo
 3. OPTIONAL: [[connect-obsidian-vault-with-github|Connect your Obsidian Vault with Github]]
 
