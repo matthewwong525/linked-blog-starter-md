@@ -27,7 +27,7 @@ Deploy the example using [Vercel](https://vercel.com/new/git/external?repository
 
 ## Create a Custom Fork 
 Here is an example of how I [forked this repo](https://fleetingnotes.app/) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See how you can do something similar [[deploy-a-custom-linked-blog-starter|here]].
-![[fn-website-demo.mov]]
 
+![[fn-website-demo.gif]]
 
 
