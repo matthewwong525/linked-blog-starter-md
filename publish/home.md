@@ -30,16 +30,17 @@ Obsidian notes [[works-out-of-the-box-with-markdown-files|work out of the box]] 
 ### Performance
 All markdown files are [[statically-generated|statically generated]] meaning loading speeds are super speedy!
 
-## Demo
+## Getting Started
+### Demo
 [https://linked-blog-starter.vercel.app/](https://linked-blog-starter.vercel.app/)
 
-## Deploy your own
+### Deploy your own
 Only deploy through this method, if you want to get a quick server up and running. Otherwise, I'd recommend following the [[publish-your-obsidian-notes-with-linked-blog-starter|instructions to integrate this with your Obsidian Vault]].
 
 Deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
 
-## Create a Custom Fork
-Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See how you can do something similar [[deploy-a-custom-linked-blog-starter|here]].
+### Create a Custom Fork
+Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/). See [[deploy-a-custom-linked-blog-starter|how to deploy a custom version of the linked-blog-starter]]
 
 ![[fn-website-demo.gif]]
 
