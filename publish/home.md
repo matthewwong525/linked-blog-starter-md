@@ -8,7 +8,7 @@ This repository is a modified version of the blog starter provided by Next.JS. B
 - [[works-out-of-the-box-with-markdown-files|Works out of the box]] with your markdown files (No configuration needed)
 - Supports markdown & Obsidian specific markdown syntax (via [obsidian-export](https://github.com/zoni/obsidian-export))
 - Embed "PreviewLinks" outside of the markdown files (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
-- Highly customizable with Next.js, Tailwind v3 and React
+- Easily [[publish-your-obsidian-notes-with-linked-blog-starter|extend upon this repository]] and publish your notes
 
 ## Why I created this?
 It's true that there are many Obsidian Publish alternatives, but, many of these solutions are hard to [[deploy-a-custom-linked-blog-starter|customize]], difficult to publish, and tend to [[linked-blog-starter-does-not-reinvent-wheel|reinvent the wheel]]. With this repository, I want to create a simple template that takes care of everything. Here's what the publish workflow looks like after [[publish-your-obsidian-notes-with-linked-blog-starter|setting everything up:]]
