@@ -4,6 +4,7 @@ title: "A Customizable Obsidian Publish alternative using Next.JS"
 # A Customizable Obsidian Publish alternative using Next.JS
 
 ## Problems with Obsidian Publish Alternatives (from ChatGPT):
+
 > **Compatibility**: Not all Obsidian Publish alternatives may be compatible with all versions of Obsidian or all markdown syntax, which can make it difficult to use certain tools or services. 
 > 
 > **Ease of use:** Some Obsidian Publish alternatives may be more difficult to set up or use than others, which can make it frustrating for new users to get started.
@@ -12,13 +13,23 @@ title: "A Customizable Obsidian Publish alternative using Next.JS"
 > 
 > **Performance**: Some Obsidian Publish alternatives may not perform as quickly or smoothly as users may expect, which can make it frustrating to use.
 
+-- ChatGPT
+
 ## Here's the linked-blog-starter addresses these problems:
-- **Compatibility:** External / extensible libraries are used to convert Obsidian MD files to common markdown then to HTML
-- **Ease of Use**: Obsidian notes [[works-out-of-the-box-with-markdown-files|work out of the box]] and after the [[publish-your-obsidian-notes-with-linked-blog-starter|setup]], publishing notes is done in 2 steps:
+### Compatibility
+[[linked-blog-starter-does-not-reinvent-wheel|External / extensible libraries]] are used to convert Obsidian MD files to common markdown then to HTML
+
+### Ease of Use
+Obsidian notes [[works-out-of-the-box-with-markdown-files|work out of the box]] and after the [[publish-your-obsidian-notes-with-linked-blog-starter|setup]], publishing notes is done in 2 steps:
 	1. Write a note in `/publish` folder within Obsidian
 	2. Run the backup command [[connect-obsidian-vault-with-github|using the Obsidian Git plugin]]
-- **Customization:** [[deploy-a-custom-linked-blog-starter|Create your own template]] or use someone else's! Changing the template is simple matter of [[update-publish-settings-github-actions|updating one line in your repository]]. There's also an added feature to add "PreviewLinks" to text outside of markdown files. (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
-- **Performance:** All markdown files are [[statically-generated|statically generated]] meaning loading speeds are super speedy!
+
+### Customization
+[[deploy-a-custom-linked-blog-starter|Create your own template]] or use someone else's! Changing the template is simple matter of [[update-publish-settings-github-actions|updating one line in your repository]].
+	- There's also an added feature to add "PreviewLinks" to text outside of markdown files. (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
+
+### Performance
+All markdown files are [[statically-generated|statically generated]] meaning loading speeds are super speedy!
 
 ## Demo
 [https://linked-blog-starter.vercel.app/](https://linked-blog-starter.vercel.app/)
