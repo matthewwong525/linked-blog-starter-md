@@ -1,3 +1,6 @@
+---
+title: "Home"
+---
 # Host your second brain with Next.JS
 
 This repository is a modified version of the [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) provided by Next.JS. Below are some added features of the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter):

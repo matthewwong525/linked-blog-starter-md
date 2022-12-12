@@ -1,0 +1,1 @@
+The good thing about separating the script is that the blog starter can easily be 

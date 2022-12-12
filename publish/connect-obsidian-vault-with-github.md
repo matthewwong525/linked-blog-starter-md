@@ -1,5 +1,5 @@
 ---
-title: "How to setup your Github repository with Obsidian"
+title: "How to connect Obsidian Vault with Github"
 ---
 1. Clone the repository or "Download As Zip"
 ![[clone-or-download-github.png]]
