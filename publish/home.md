@@ -1,8 +1,7 @@
 ---
-title: "A Customizable Obsidian Publish alternative using Next.JS"
+title: "An Extendable Obsidian Publish alternative using Next.JS"
+excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
 ---
-# A Customizable Obsidian Publish alternative using Next.JS
-
 ## Problems with Obsidian Publish Alternatives (from ChatGPT):
 
 > **Compatibility**: Not all Obsidian Publish alternatives may be compatible with all versions of Obsidian or all markdown syntax, which can make it difficult to use certain tools or services. 
@@ -15,7 +14,7 @@ title: "A Customizable Obsidian Publish alternative using Next.JS"
 
 -- ChatGPT
 
-## Here's the linked-blog-starter addresses these problems:
+## How the linked-blog-starter template addresses these problems:
 ### Compatibility
 [[linked-blog-starter-does-not-reinvent-wheel|External / extensible libraries]] are used to convert Obsidian MD files to common markdown then to HTML
 
