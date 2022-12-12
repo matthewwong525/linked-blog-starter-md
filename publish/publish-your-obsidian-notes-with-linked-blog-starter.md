@@ -20,7 +20,6 @@ By the end of this tutorial, you'll have a github repository that will automatic
 
 **Note**: Make sure you don't delete the `/publish/home.md` file as that is your "landing page"
 
-Additional Readings
-- [[connect-obsidian-vault-with-github|How to connect Obsidian with Github]]
-- [[update-publish-settings-github-actions|Updating the publish settings]]
-- [[deploy-a-custom-linked-blog-starter]]
+Optionally, you can:
+- [[connect-obsidian-vault-with-github|Publish Notes within your Obsidian Vault]] by installing the Obsidian Git plugin
+- [[update-publish-settings-github-actions|Update the publish settings]] to publish your notes to a [[deploy-a-custom-linked-blog-starter|custom version]] of the linked-blog-starter 

@@ -1,40 +1,31 @@
 ---
-title: "Home"
+title: "A Customizable Obsidian Publish alternative using Next.JS"
 ---
-# Host your second brain with Next.JS
+# A Customizable Obsidian Publish alternative using Next.JS
 
-This repository is a modified version of the blog starter provided by Next. JS. Below are some added features of the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter):
+This repository is a modified version of the blog starter provided by Next.JS. Below are some added features of the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter):
 - Automatically generated backlinks and link previews
 - [[works-out-of-the-box-with-markdown-files|Works out of the box]] with your markdown files (No configuration needed)
 - Supports markdown & Obsidian specific markdown syntax (via [obsidian-export](https://github.com/zoni/obsidian-export))
+- Embed "PreviewLinks" outside of the markdown files (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
 - Highly customizable with Next.js, Tailwind v3 and React
 
-## How to use this with Obsidian markdown files
-To use this with Obsidian, you'll need to use [obsidian-export](https://github.com/zoni/obsidian-export) to [[convert-obsidian-notes-to-common-markdown|convert your obsidian notes to a common markdown]] format. Once in the common markdown format, add the markdown files to the `/common_md` folder and the blog posts will be created.
+## Why I created this?
+It's true that there are many Obsidian Publish alternatives, but, many of these solutions are hard to [[deploy-a-custom-linked-blog-starter|customize]], difficult to publish, and tend to [[linked-blog-starter-does-not-reinvent-wheel|reinvent the wheel]]. With this repository, I want to create a simple template that takes care of everything. Here's what the publish workflow looks like after [[publish-your-obsidian-notes-with-linked-blog-starter|setting everything up:]]
 
-Here are the external libraries I used to help me convert Obsidian markdown files to beautiful HTML:
-- [obsidian-export](https://github.com/zoni/obsidian-export) (Obsidian MD -> [Common MD](https://commonmark.org/))
-- [remarkjs](https://github.com/remarkjs/remark) (Common MD -> HTML)
-- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) (HTML -> Beautiful HTML)
+1. Write a note in `/publish` folder within Obsidian
+2. Run the backup command [[connect-obsidian-vault-with-github|using the Obsidian Git plugin]]
+3. Done. Your notes are published. 
 
 ## Demo
-
 [https://linked-blog-starter.vercel.app/](https://linked-blog-starter.vercel.app/)
 
 ## Deploy your own
+Only deploy through this method, if you want to get a quick server up and running. Otherwise, I'd recommend following the [[publish-your-obsidian-notes-with-linked-blog-starter|instructions to integrate this with your Obsidian Vault]].
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
+Deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
+## Custom examples
 
-### Related examples
-- [Fleeting Notes](https://fleetingnotes.app)
-
-## [[install-linked-blog-starter|Installation]]
-![[install-linked-blog-starter]]
-
-# Notes
-- `linked-blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
-- Markdown files are [[statically-generated|statically generated]]
-- Markdown is styled using [generated GitHub flavoured markdown](https://github.com/sindresorhus/github-markdown-css)
+- [Fleeting Notes](https://fleetingnotes.app) - L
 

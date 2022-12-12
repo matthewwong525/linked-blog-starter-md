@@ -1,3 +1,0 @@
-- Look at Fleeting Notes website for a more comprehensive example of what this blog can be made to become.
-- Linked Preview
-- 
