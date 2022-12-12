@@ -4,11 +4,11 @@ title: "Deploy a custom version of the linked-blog-starter"
 By the end of this tutorial, you will have a custom version of the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) that deploys to Vercel
 
 ## Fork the repository and get it to run locally
-First, we want to fork the linked-blog-starter repo, then [[install-linked-blog-starter|install]] and run it locally.
+First, we want to fork the linked-blog-starter repo, then [[install-linked-blog-starter-locally|install]] and run it locally.
 
 **Note**: Update `https://github.com/matthewwong525/linked-blog-starter` with your own repository link
 
-![[install-linked-blog-starter]]
+![[install-linked-blog-starter-locally]]
 
 After doing the installations, you can update the components as you wish. 
 
