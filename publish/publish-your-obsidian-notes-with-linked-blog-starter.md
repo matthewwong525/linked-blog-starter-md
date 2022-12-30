@@ -3,6 +3,8 @@ title: "Publish your Obsidian Notes with linked-blog-starter"
 ---
 By the end of this tutorial, you'll have a github repository that will automatically publish notes to your custom website everytime you upload new notes to the `publish` folder.
 
+https://www.youtube.com/watch?v=rKSpK1dXn4E
+
 ## Step-by-step instructions to setup your blog
 
 1. Fork the repository [linked-blog-starter-md](https://github.com/matthewwong525/linked-blog-starter-md) repository. This repository is where the publishing occurs
