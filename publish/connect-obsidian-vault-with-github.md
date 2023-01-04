@@ -1,6 +1,8 @@
 ---
 title: "The Easiest Way to Connect Your Obsidian Vault with Github"
 ---
+Video: https://www.youtube.com/watch?v=5YZz38U20ws
+
 1. Create a repository or [[publish-your-obsidian-notes-with-linked-blog-starter|fork the md repo]] in github
 2. [Download Git](https://git-scm.com/downloads)
 3. Create a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) from github
