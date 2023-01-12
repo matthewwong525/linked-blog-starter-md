@@ -1,7 +1,7 @@
 # Ivria University of Magical Development & Advancement
 The Ivria University of Magical Development & Advancement, UMDA for short, is [[Ivria]]’s main Magical school and research institute. UMDA is divided up into multiple sectors, each with its own purpose and location
 
-# UMDA Main Sector
+# UMDA Sectors
 ![[UMDA Main Sector]]
 
 
