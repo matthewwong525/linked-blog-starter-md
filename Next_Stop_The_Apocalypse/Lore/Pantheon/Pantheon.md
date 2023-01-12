@@ -1,45 +1,45 @@
 # The Good Deities
 
-![[Palor, The Dawnfather]]
+[[Palor, The Dawnfather]]
 
-![[Lathander, God of Birth and Renewal]]
+[[Lathander, God of Birth and Renewal]]
 
-![[Waukeen, Goddes of Trade and Commerce]]
+[[Waukeen, Goddes of Trade and Commerce]]
 
-![[Hephaestus, God of the Forge]]
+[[Hephaestus, God of the Forge]]
 
-![[Elistrae, Goddes of the moon]]
+[[Elistrae, Goddes of the moon]]
 
-![[Mishakal, Goddes of Healing]]
+[[Mishakal, Goddes of Healing]]
 
-![[Poseidon, God of the Sea & Earthquakes]]
+[[Poseidon, God of the Sea & Earthquakes]]
 
 # The Neutral Deities
 
-![[Babyl, God of Adventurers and Dungeons]]
+[[Babyl, God of Adventurers and Dungeons]]
 
-![[Mystra, Goddes of magic]]
+[[Mystra, Goddes of magic]]
 
-![[Kelemvor, God of the Dead]]
+[[Kelemvor, God of the Dead]]
 
-![[Ogma, God of Knowledge]]
+[[Ogma, God of Knowledge]]
 
-![[Tymore, Goddes of Good Fortune]]
+[[Tymore, Goddes of Good Fortune]]
 
-![[Arawn, God of Life & Death]]
+[[Arawn, God of Life & Death]]
 
-![[Pan, God of Nature]]
+[[Pan, God of Nature]]
 
 # The Evil Deities
 
-![[Storm Lord, God of Storms]]
+[[Storm Lord, God of Storms]]
 
-![[Devourer, God of Nature's Wrath]]
+[[Devourer, God of Nature's Wrath]]
 
-![[Morrigan, Goddes of Battle]]
+[[Morrigan, Goddes of Battle]]
 
-![[Tiamat, Goddes of Evil Dragons]]
+[[Tiamat, Goddes of Evil Dragons]]
 
-![[Discordant, God of Madness and Discourse]]
+[[Discordant, God of Madness and Discourse]]
 
-![[Lolth, Goddes of Spiders]]
+[[Lolth, Goddes of Spiders]]

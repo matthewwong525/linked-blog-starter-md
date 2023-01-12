@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3068ed181c50747",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "99aceba587dd2d98",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -37,6 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "test_upload",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test_upload.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "home",
@@ -61,7 +52,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test_upload.md",
+                "file": "Lore/Pantheon/Pantheon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86e5b716ff3dcf93",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pantheon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Pantheon/Pantheon.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kingdom of Heartia.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_upload.md",
+                "file": "Kingdom of Heartia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_upload.md",
+                "file": "Kingdom of Heartia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,17 +366,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "99aceba587dd2d98",
+  "active": "86e5b716ff3dcf93",
   "lastOpenFiles": [
+    "Lore/Pantheon/Pantheon.md",
     "home.md",
-    "Republic of Ne.md",
     "test_upload.md",
+    "Republic of Ne.md",
     "publish/deploy-a-custom-linked-blog-starter.md",
     "publish/get-project-id-account-id-and-token-vercel.md",
     "publish/reinventing-the-wheel.md",
     "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "publish/statically-generated.md",
-    "publish/how-linked-blog-starter-works.md",
-    "publish/home.md"
+    "publish/how-linked-blog-starter-works.md"
   ]
 }
