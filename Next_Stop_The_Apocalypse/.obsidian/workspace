@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "9147bc6f910d4cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8cb62709213945",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/Thorum/The land of the Allhammer.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/Thorum/Thorum.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":30},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":16.540446692673726}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/1 Geography index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Pantheon of Alorea/Deity's/Moradin, God of creation.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Pantheon of Alorea/Pantheon of Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":5.290802764486975}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/Thorum/The Eludorian Kingdom.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":11.130515683147262}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/Thorum/Thorum.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":23.297137380724198}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Geography/1 Geography index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/History/1 History index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Pantheon of Alorea/Pantheon of Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.1856645097063216}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch notes/Alorea campaing ideas.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Pantheon of Alorea/Pantheon of Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":9},\"to\":{\"line\":7,\"ch\":9}}}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Pantheon of Alorea/Pantheon of Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "4e8cb62709213945",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alorea/Alorea.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Alorea/Geography/Thorum/The land of the Allhammer.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ebeeedf37b79ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "934dc6ac91367484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49760db724daa18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98c3f8fe9236c064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "black drac",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e8e4f545e628e00",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3c75992fbae58bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ac40ae03b41119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa63b523a13c2a4a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alorea/Geography/Thorum/The land of the Allhammer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f90f12c4f33f7b69",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f3f4950dbb2f262",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alorea/Geography/Thorum/The land of the Allhammer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5a468c06a22e247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48a366173849bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9543d5aca40aa84c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "51abea8110c25d54",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddcfd166d45071a2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2fb983579a57eb03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa3ee4ea852325e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 541
+  },
+  "active": "4e8cb62709213945",
+  "lastOpenFiles": [
+    "Alorea/Geography/Thorum/Thorum.md",
+    "Alorea/Geography/1 Geography index.md",
+    "Alorea/Alorea.md",
+    "Alorea/Pantheon of Alorea/Deity's/Moradin, God of creation.md",
+    "Alorea/Pantheon of Alorea/Pantheon of Alorea.md",
+    "Alorea/Geography/Thorum/The Eludorian Kingdom.md",
+    "Alorea/History/1 History index.md",
+    "0. Scratch notes/Alorea campaing ideas.md",
+    "reference/reference.md",
+    "reference/Playing the game/Spells.md"
+  ]
+}

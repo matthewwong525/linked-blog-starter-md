@@ -1,3 +1,0 @@
-Characters
-Lore
-NPC's

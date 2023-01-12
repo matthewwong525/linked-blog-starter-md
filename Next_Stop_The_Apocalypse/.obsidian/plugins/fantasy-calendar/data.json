@@ -1,0 +1,265 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Alorean Calendar",
+      "description": "The Calendar of Alorea its based of a simplefied version of earth",
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Onesday",
+            "id": "ID_1b09dbdbb90a"
+          },
+          {
+            "type": "day",
+            "name": "Twosday",
+            "id": "ID_88989a0a0b48"
+          },
+          {
+            "type": "day",
+            "name": "Thirdsday",
+            "id": "ID_8b19eada799b"
+          },
+          {
+            "type": "day",
+            "name": "Fourthsday",
+            "id": "ID_e9b8caf8eb49"
+          },
+          {
+            "type": "day",
+            "name": "Fifthsday",
+            "id": "ID_ab7929a95838"
+          },
+          {
+            "type": "day",
+            "name": "Sixthday",
+            "id": "ID_1898d8d8a8a9"
+          },
+          {
+            "type": "day",
+            "name": "Seventhday",
+            "id": "ID_cb88b808c8aa"
+          }
+        ],
+        "months": [
+          {
+            "name": "Deepwinter",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0ab95baac9cb"
+          },
+          {
+            "name": "Wintersend",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4b484a7a9838"
+          },
+          {
+            "name": "Seedmoon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da584bf87abb"
+          },
+          {
+            "name": "Bloomsmonth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_5b0979a88aca"
+          },
+          {
+            "name": "Deepspring",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0b6919c8d938"
+          },
+          {
+            "name": "Sunsmoon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_1a882a2a0a8a"
+          },
+          {
+            "name": "Highsummer",
+            "type": "month",
+            "length": 30,
+            "id": "ID_d93a3a8bdbba"
+          },
+          {
+            "name": "Latesummer",
+            "type": "month",
+            "length": 30,
+            "id": "ID_2bdb08b88b89"
+          },
+          {
+            "name": "Harvestmoon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_8b6b4b9a48a9"
+          },
+          {
+            "name": "Redleaf",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fbebc9091948"
+          },
+          {
+            "name": "Frostfall",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6bd8fb58ab4a"
+          },
+          {
+            "name": "Midwinter",
+            "type": "month",
+            "length": 30,
+            "id": "ID_9b4848b99b19"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 36,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_6baaab0bb8db"
+          }
+        ],
+        "leapDays": [],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "year": 1654,
+        "day": 19,
+        "month": 2
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "1367400",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "1367401",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The spring equinox is when the day and the night are equally as long, and are getting longer.",
+          "id": "1367402",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The autumn equinox is when the day and the night are equally as long, and are getting shorter.",
+          "id": "1367403",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Spring Festival",
+          "id": "1367399",
+          "note": null,
+          "date": {
+            "day": 6,
+            "year": null,
+            "month": 3
+          },
+          "category": null
+        },
+        {
+          "name": "Harvest Holiday",
+          "id": "1367398",
+          "note": null,
+          "date": {
+            "day": 30,
+            "year": null,
+            "month": 9
+          },
+          "category": null
+        },
+        {
+          "name": "Winter Holiday",
+          "id": "1367397",
+          "note": null,
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          },
+          "category": null
+        }
+      ],
+      "id": "ID_982a3a8b194a",
+      "categories": [
+        {
+          "id": "ID_d8bb7adb08da",
+          "color": "#ff0000",
+          "name": "General events"
+        },
+        {
+          "id": "ID_caea2959d859",
+          "color": "#00ff4c",
+          "name": "Devine events"
+        }
+      ],
+      "timelineTag": "#timeline"
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_982a3a8b194a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

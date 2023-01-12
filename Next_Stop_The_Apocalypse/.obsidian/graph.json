@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:-\"ZTemplates\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.439209401709402,
+  "repelStrength": 10.5641025641026,
+  "linkStrength": 0.986217948717949,
+  "linkDistance": 224,
+  "scale": 0.9620263806205943,
+  "close": true
+}

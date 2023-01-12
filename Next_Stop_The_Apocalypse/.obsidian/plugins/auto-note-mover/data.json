@@ -1,0 +1,38 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Zarchive",
+      "tag": "#archived",
+      "pattern": ""
+    },
+    {
+      "folder": "2. Campaign guide/NPC's/Non Important",
+      "tag": "#NNPC",
+      "pattern": ""
+    },
+    {
+      "folder": "2. Campaign guide/NPC's/Important",
+      "tag": "#NPC",
+      "pattern": ""
+    },
+    {
+      "folder": "0. session prep",
+      "tag": "#sessionprep",
+      "pattern": ""
+    },
+    {
+      "folder": "reference/Herbelore-Alchemy",
+      "tag": "#herbs",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "ZTemplates"
+    }
+  ]
+}

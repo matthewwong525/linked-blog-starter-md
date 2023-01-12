@@ -1,0 +1,22 @@
+{
+  "returnAllTags": true,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "persistResults": false,
+  "results": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": true,
+  "renderTime": 2000,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "showLeafOnStartup": true,
+  "showDice": true,
+  "round": "None"
+}

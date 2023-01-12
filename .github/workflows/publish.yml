@@ -1,7 +1,7 @@
 name: Publish Markdown Files
 env:
   BLOG_REPO: matthewwong525/linked-blog-starter
-  PUBLISH_DIR: publish
+  PUBLISH_DIR: Next_Stop_The_Apocalypse
 on:
   push:
     branches: [main]

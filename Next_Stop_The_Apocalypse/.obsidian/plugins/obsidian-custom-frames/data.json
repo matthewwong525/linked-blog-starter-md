@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/58739099",
+      "displayName": "D&D Beyond",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
