@@ -84,9 +84,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "585518db4b93623f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random shit/Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kingdom of Heartia.md",
+                "file": "Random shit/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kingdom of Heartia.md",
+                "file": "Random shit/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,8 +387,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "86e5b716ff3dcf93",
+  "active": "f49760db724daa18",
   "lastOpenFiles": [
+    "Kingdom of Heartia.md",
     "Lore/Pantheon/Pantheon.md",
     "home.md",
     "test_upload.md",
@@ -376,7 +398,6 @@
     "publish/get-project-id-account-id-and-token-vercel.md",
     "publish/reinventing-the-wheel.md",
     "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "publish/statically-generated.md",
-    "publish/how-linked-blog-starter-works.md"
+    "publish/statically-generated.md"
   ]
 }
