@@ -62,11 +62,29 @@
             "id": "86e5b716ff3dcf93",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Ivria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Ivria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.4008502662016775}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kingdom of Heartia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kingdom of Heartia.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Pantheon",
@@ -79,35 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingdom of Heartia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585518db4b93623f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random shit/Readme.md",
+                "file": "Lore/World/World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random shit/Readme.md",
+                "file": "Lore/World/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random shit/Readme.md",
+                "file": "Lore/World/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,17 +384,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f49760db724daa18",
+  "active": "86e5b716ff3dcf93",
   "lastOpenFiles": [
+    "Lore/World/Ivria.md",
+    "Lore/World/World.md",
+    "Lore/Lore.md",
     "Kingdom of Heartia.md",
-    "Lore/Pantheon/Pantheon.md",
-    "home.md",
-    "test_upload.md",
+    "Lore/World/Ostalsia.md",
     "Republic of Ne.md",
-    "publish/deploy-a-custom-linked-blog-starter.md",
-    "publish/get-project-id-account-id-and-token-vercel.md",
-    "publish/reinventing-the-wheel.md",
-    "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "publish/statically-generated.md"
+    "Principality of Khun.md",
+    "Principality of Elolalas.md",
+    "Pricipality of Khatho.md",
+    "Obsidian Spires.md"
   ]
 }
