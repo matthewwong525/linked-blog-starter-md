@@ -17,5 +17,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 70
-  }
+  },
+  "showInlineTitle": false
 }

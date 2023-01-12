@@ -1,3 +1,4 @@
+# Principality of Elolalas
 
 Capital: [[Verin, Nexus Arcanum]] Ruler: [[Lord Zalto Elolalas]], Gold Dragonborn
 The Principality of Elolalas is a country that originally started as a principality but has since grown into a fully autonomous country. Being home to the [[UMDA|University of Magical Development & Advancement]], Elolalas is a country dedicated to magical advancement. Many of the great wizards originally come from here, like [[Findar the great]], [[Yggwilv the Witch]] and [[Mordenkeinen]].

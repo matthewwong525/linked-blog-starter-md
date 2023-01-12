@@ -1,3 +1,5 @@
+# Republic of Ne
+
 Capital: [[Qho, Merchant haven]] Ruler: [[The Gilded Council]]
 Easily the biggest nation on the map, the Republic of Ne is a country not ruled by 1 ruler. The republic aims for democracy and fair rules to all of its citizens. For this reason the country has a free trade policy, its borders are open to any trader and anyone is allowed to sell. The country is ruled by [[The Gilded Council]], a group of politicians and merchants that steer the country in the direction of prosperity and a good future.
 Due to the open policies of the council, the country has become a haven for both adventurers and merchants alike. You can find guilds in every city but none as large as the [[Qho Prosperity Division]], QPD for short. QPD is the largest questing guild in the entire continent and has reach in each country. Most guilds are working under QPD. The guild is not only a questing guild but also a merchant guild, providing pop up store fronts for traveling merchants for low fees and larger buildings for local merchants and artisans.

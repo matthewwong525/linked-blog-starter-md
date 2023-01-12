@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99aceba587dd2d98",
+            "id": "4bfc2ff0a05e3169",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,114 +18,81 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Lore",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ivria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Ivria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.8563619323399475}"
-                },
-                {
-                  "title": "World",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/World.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.807894344093738}"
-                },
-                {
-                  "title": "Lore",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Principality of Elolalas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Principality of Elolalas.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pantheon",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Pantheon/Pantheon.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":28},\"to\":{\"line\":44,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "test_upload",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test_upload.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Republic of Ne",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Republic of Ne.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "test_upload",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test_upload.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/World/World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86e5b716ff3dcf93",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Ivria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Ivria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.4008502662016775}"
-                },
-                {
-                  "state": "{}",
+                  "title": "Pasted image 20230112162418",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Files/Pasted image 20230112162418.png\"}}",
                   "eState": "{}"
                 },
                 {
+                  "title": "Qho Prosperity Division",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Qho Prosperity Division.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6.003181636963572}"
+                },
+                {
+                  "title": "UMDA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "UMDA MA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA MA.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "UMDA Main Sector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA Main Sector.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "UMDA MA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA MA.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "UMDA",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Principality of Khun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Principality of Khun.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":303},\"to\":{\"line\":2,\"ch\":303}}}"
+                },
+                {
+                  "title": "Icy North",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Icy North.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Qho Prosperity Division",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Qho Prosperity Division.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.582020777627228}"
+                },
+                {
+                  "title": "Institute and Factions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Institute and Factions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":29},\"to\":{\"line\":4,\"ch\":29}},\"scroll\":0}"
+                },
+                {
                   "title": "Lore",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Kingdom of Heartia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Kingdom of Heartia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pantheon",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Pantheon/Pantheon.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -133,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/World/World.md",
+                "file": "Lore/Institute and Factions/Qho Prosperity Division.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/World/World.md",
+                "file": "Lore/Institute and Factions/Qho Prosperity Division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/World/World.md",
+                "file": "Lore/Institute and Factions/Qho Prosperity Division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -419,17 +386,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "99aceba587dd2d98",
+  "active": "f49760db724daa18",
   "lastOpenFiles": [
-    "Lore/Lore.md",
-    "Lore/World/Ivria.md",
-    "Lore/World/World.md",
-    "Principality of Elolalas.md",
-    "Lore/Pantheon/Pantheon.md",
-    "Kingdom of Heartia.md",
-    "Lore/World/Ostalsia.md",
-    "Republic of Ne.md",
-    "Principality of Khun.md",
-    "Pricipality of Khatho.md"
+    "Files/Pasted image 20230112162418.png",
+    "Lore/Institute and Factions/Qho Prosperity Division.md",
+    "Lore/Institute and Factions/UMDA.md",
+    "Lore/Institute and Factions/UMDA MA.md",
+    "Lore/Institute and Factions/UMDA Main Sector.md",
+    "Lore/World/Principality of Khun.md",
+    "Lore/World/Kingdom of Heartia.md",
+    "Lore/World/Icy North.md",
+    "Lore/Institute and Factions/QPD Artisan.md",
+    "Lore/Institute and Factions/QPD Questing.md"
   ]
 }
