@@ -37,6 +37,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Republic of Ne",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Republic of Ne.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "test_upload",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test_upload.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}}}"
                 }
               ]
             },
@@ -333,14 +351,14 @@
   "active": "99aceba587dd2d98",
   "lastOpenFiles": [
     "home.md",
+    "Republic of Ne.md",
+    "test_upload.md",
     "publish/deploy-a-custom-linked-blog-starter.md",
     "publish/get-project-id-account-id-and-token-vercel.md",
     "publish/reinventing-the-wheel.md",
     "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "publish/statically-generated.md",
     "publish/how-linked-blog-starter-works.md",
-    "publish/home.md",
-    "publish/install-linked-blog-starter-locally.md",
-    "publish/linked-blog-starter-does-not-reinvent-wheel.md"
+    "publish/home.md"
   ]
 }
