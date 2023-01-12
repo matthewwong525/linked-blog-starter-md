@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ivria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Ivria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0.8563619323399475}"
+                },
+                {
+                  "title": "World",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/World.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.807894344093738}"
+                },
+                {
+                  "title": "Lore",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Principality of Elolalas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Principality of Elolalas.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pantheon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Pantheon/Pantheon.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":28},\"to\":{\"line\":44,\"ch\":28}},\"scroll\":0}"
+                },
+                {
                   "title": "home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
@@ -52,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Pantheon/Pantheon.md",
+                "file": "Lore/World/World.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -384,17 +419,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "86e5b716ff3dcf93",
+  "active": "99aceba587dd2d98",
   "lastOpenFiles": [
+    "Lore/Lore.md",
     "Lore/World/Ivria.md",
     "Lore/World/World.md",
-    "Lore/Lore.md",
+    "Principality of Elolalas.md",
+    "Lore/Pantheon/Pantheon.md",
     "Kingdom of Heartia.md",
     "Lore/World/Ostalsia.md",
     "Republic of Ne.md",
     "Principality of Khun.md",
-    "Principality of Elolalas.md",
-    "Pricipality of Khatho.md",
-    "Obsidian Spires.md"
+    "Pricipality of Khatho.md"
   ]
 }

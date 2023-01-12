@@ -2,7 +2,7 @@
 
 # Countries
 
-	![[Principality of Elolalas]]
+![[Principality of Elolalas]]
 
 ![[Pricipality of Khatho]]
 
