@@ -39,7 +39,7 @@
                 {
                   "title": "Session 1 Notes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Unworked session notes/Session 1 Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/Unworked session notes/Session 1 Notes.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -361,12 +361,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e22903d6073ff54b",
+  "active": "f49760db724daa18",
   "lastOpenFiles": [
     "Chronicols of Darkness.md",
     "home.md",
     "IC_Notes/IC_Notes.md",
-    "private/Unworked session notes/Session 1 Notes.md",
+    "IC_Notes/Unworked session notes/Session 1 Notes.md",
     "IC_Notes/Session 1 IC notes.md",
     "Lore/World/Kingdom of Heartia.md",
     "Lore/Institute and Factions/UMDA.md",
