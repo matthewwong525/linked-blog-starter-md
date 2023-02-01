@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:-\"ZTemplates\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,7 +9,7 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -17,6 +17,6 @@
   "repelStrength": 12.75,
   "linkStrength": 1,
   "linkDistance": 108,
-  "scale": 0.27095788696047146,
+  "scale": 0.2709578869604719,
   "close": true
 }

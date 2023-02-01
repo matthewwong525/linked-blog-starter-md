@@ -4,3 +4,5 @@ excerpt: "or the apocalypse"
 ---
 ![[Lore]]
 
+
+[[IC_Notes]]

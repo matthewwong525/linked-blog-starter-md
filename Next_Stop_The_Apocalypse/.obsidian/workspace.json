@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ecee34ee5cd38b9",
+        "id": "784b9e4a61957092",
         "type": "tabs",
+        "dimension": 43.5656836461126,
         "children": [
           {
-            "id": "4bfc2ff0a05e3169",
+            "id": "e22903d6073ff54b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,99 +19,27 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Institute and Factions",
+                  "title": "Chronicols of Darkness",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Institute and Factions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chronicols of Darkness.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Lore",
+                  "title": "home",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Qho Prosperity Division",
+                  "title": "IC_Notes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Qho Prosperity Division.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/IC_Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 },
                 {
-                  "title": "Pasted image 20230112162418",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Files/Pasted image 20230112162418.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Qho Prosperity Division",
+                  "title": "Session 1 Notes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Qho Prosperity Division.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6.003181636963572}"
-                },
-                {
-                  "title": "UMDA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "UMDA MA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA MA.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "UMDA Main Sector",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA Main Sector.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "UMDA MA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA MA.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "UMDA",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/UMDA.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Principality of Khun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Principality of Khun.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":303},\"to\":{\"line\":2,\"ch\":303}}}"
-                },
-                {
-                  "title": "Icy North",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/World/Icy North.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Qho Prosperity Division",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Qho Prosperity Division.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.582020777627228}"
-                },
-                {
-                  "title": "Institute and Factions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Institute and Factions/Institute and Factions.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":29},\"to\":{\"line\":4,\"ch\":29}},\"scroll\":0}"
-                },
-                {
-                  "title": "Lore",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Lore.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Unworked session notes/Session 1 Notes.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -118,7 +47,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Institute and Factions/UMDA.md",
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4518e2f440ac0631",
+        "type": "tabs",
+        "dimension": 56.434316353887404,
+        "children": [
+          {
+            "id": "079e0df12a0572a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC_Notes/Session 1 IC notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Institute and Factions/UMDA.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Institute and Factions/UMDA.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -404,17 +361,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4bfc2ff0a05e3169",
+  "active": "e22903d6073ff54b",
   "lastOpenFiles": [
-    "Lore/Institute and Factions/Institute and Factions.md",
-    "Lore/Lore.md",
-    "Lore/Institute and Factions/Qho Prosperity Division.md",
-    "Files/Pasted image 20230112162418.png",
-    "Lore/Institute and Factions/UMDA.md",
-    "Lore/Institute and Factions/UMDA MA.md",
-    "Lore/Institute and Factions/UMDA Main Sector.md",
-    "Lore/World/Principality of Khun.md",
+    "Chronicols of Darkness.md",
+    "home.md",
+    "IC_Notes/IC_Notes.md",
+    "private/Unworked session notes/Session 1 Notes.md",
+    "IC_Notes/Session 1 IC notes.md",
     "Lore/World/Kingdom of Heartia.md",
-    "Lore/World/Icy North.md"
+    "Lore/Institute and Factions/UMDA.md",
+    "Random shit/Quest nr1.md",
+    "private/Myrthal Iandir.md",
+    "private/TARDIS NAMES.md"
   ]
 }
