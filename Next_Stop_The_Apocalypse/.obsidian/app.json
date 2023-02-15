@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "ZTemplates/files",
+  "attachmentFolderPath": "ZFiles",
   "showFrontmatter": true,
   "spellcheck": true,
   "spellcheckLanguages": [

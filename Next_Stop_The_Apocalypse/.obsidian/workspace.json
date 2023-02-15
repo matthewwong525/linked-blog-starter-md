@@ -6,13 +6,20 @@
       {
         "id": "08efb1b8a6f05d1c",
         "type": "tabs",
+        "dimension": 64.87935656836461,
         "children": [
           {
-            "id": "e4960f4ffcfc2a95",
+            "id": "3bebd267d04c00dd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -22,14 +29,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party Fund.md",
+                "file": "Session 2 IC Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb501ae28cd4b29d",
+            "id": "428625fc8bc3c66c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -43,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 3 notes.md",
+                "file": "IC_Notes/Session 1 IC notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,6 +58,57 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "78696a524622f9ce",
+        "type": "tabs",
+        "dimension": 35.120643431635386,
+        "children": [
+          {
+            "id": "cdbc83751b6868bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 2 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 2 notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":46},\"to\":{\"line\":6,\"ch\":46}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11bae09e1646affd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 3 notes.md",
+                "file": "IC_Notes/Session 1 IC notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 3 notes.md",
+                "file": "IC_Notes/Session 1 IC notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,17 +390,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "cb501ae28cd4b29d",
+  "active": "3a88655aab2f80c6",
   "lastOpenFiles": [
+    "Session 2 IC Notes.md",
     "IC_Notes/Session 1 IC notes.md",
-    "IC_Notes/IC_Notes.md",
-    "Random shit/Quest nr1.md",
-    "Session 2 notes.md",
-    "Untitled.md",
-    "Party Fund.md",
-    "Lucy.md",
     "IC_Notes/Unworked session notes/Session 1 Notes.md",
-    "Detonation Surge.md",
-    "Enoki.md"
+    "Untitled.md",
+    "Lore/Spells&Items/Detonation Surge.md",
+    "Lore/Spells&Items/Spells&Items.md",
+    "UMDA Student Card.md",
+    "Squid Ink liqour.md",
+    "Bone Devil.md",
+    "House of the dead.md"
   ]
 }
