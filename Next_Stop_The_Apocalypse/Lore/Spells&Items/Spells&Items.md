@@ -4,7 +4,7 @@
 ## Items
 
 [[heart savers]]
-[[Squid Ink liqour]]
+[[Squid Ink liquor]]
 
 ## Spells
 

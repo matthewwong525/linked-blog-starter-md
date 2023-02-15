@@ -6,7 +6,7 @@
       {
         "id": "08efb1b8a6f05d1c",
         "type": "tabs",
-        "dimension": 64.87935656836461,
+        "dimension": 52.4798927613941,
         "children": [
           {
             "id": "3bebd267d04c00dd",
@@ -15,10 +15,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
+                  "title": "Squid Ink liquor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Squid Ink liquor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}}}"
                 },
                 {
                   "state": "{}",
@@ -56,13 +56,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "78696a524622f9ce",
         "type": "tabs",
-        "dimension": 35.120643431635386,
+        "dimension": 47.520107238605895,
         "children": [
           {
             "id": "cdbc83751b6868bf",
@@ -185,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -211,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC_Notes/Session 1 IC notes.md",
+                "file": "Session 2 IC Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC_Notes/Session 1 IC notes.md",
+                "file": "Session 2 IC Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,17 +388,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3a88655aab2f80c6",
+  "active": "3bebd267d04c00dd",
   "lastOpenFiles": [
+    "Squid Ink liquor.md",
     "Session 2 IC Notes.md",
+    "ZTemplates/Spoiler.md",
+    "Session 2 notes.md",
     "IC_Notes/Session 1 IC notes.md",
     "IC_Notes/Unworked session notes/Session 1 Notes.md",
     "Untitled.md",
     "Lore/Spells&Items/Detonation Surge.md",
     "Lore/Spells&Items/Spells&Items.md",
-    "UMDA Student Card.md",
-    "Squid Ink liqour.md",
-    "Bone Devil.md",
-    "House of the dead.md"
+    "UMDA Student Card.md"
   ]
 }
