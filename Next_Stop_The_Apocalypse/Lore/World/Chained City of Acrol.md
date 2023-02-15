@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Chained City of Acrol
 
 The Chained City of Acrol is the capital of [[Ostalsia]]. The city is a large city that has been ripped out of the ground and floats 300m above the ground. The only thing preventing the city from rising higher are large shadow-metal chains that chain it to the surface. The city is most known for its export in [[Elemental Airships]], floating vessels using the power of the [[Elemental Planes]] to float and propel. Currently Gestra holds 17 Airships, with a dock in each major capital across the globe.

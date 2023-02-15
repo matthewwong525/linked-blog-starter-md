@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Next Stop: The apocalypse
 Welcome to the unofficial wiki for next stop the apocalypse, I know all of you are aching to snoop around and find out wierd connection. Making sure all information is current is quite difficult and I would really like your help with making sure everything up to date. How do I do this you may ask? Well that is quite simple you only need two things Github Desktop and Obsidian.
 

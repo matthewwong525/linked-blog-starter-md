@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Pricipality of Khatho
 
 Capital: [[Dinez, Nature’s Cradle]] Ruler: [[Lady Di’losar Khatho, Eladrin]]

@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Principality of Khun
 Capital: [[Sighe, Bastion of Advancement]] Ruler: [[Vassal Odana Khun]], Human
 To the right of the [[Principality of Khatho]] lies the Principality of Khun. The Principality of Khun started off as a Principality but has since become a Vassal State. It was originally ruled over by a son of the queen of [[Kingdom of Heartia]], Prince [[Starsa Solar]], about 7 generations ago, but the title of ruler has been carried down that line of the family. The country has sworn absolute fealty to the [[Kingdom of Heartia]].

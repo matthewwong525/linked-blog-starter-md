@@ -4,64 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "784b9e4a61957092",
+        "id": "08efb1b8a6f05d1c",
         "type": "tabs",
-        "dimension": 43.5656836461126,
         "children": [
           {
-            "id": "e22903d6073ff54b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chronicols of Darkness",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chronicols of Darkness.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"home.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "IC_Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/IC_Notes.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Session 1 Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/Unworked session notes/Session 1 Notes.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4518e2f440ac0631",
-        "type": "tabs",
-        "dimension": 56.434316353887404,
-        "children": [
-          {
-            "id": "079e0df12a0572a0",
+            "id": "e4960f4ffcfc2a95",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,13 +22,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC_Notes/Session 1 IC notes.md",
+                "file": "Party Fund.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb501ae28cd4b29d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 3 notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -183,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Session 3 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Session 3 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,40 +240,6 @@
             }
           },
           {
-            "id": "ab3241b65c64e83f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "3209504d2204d7a5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "8d4ce3103f3d72fe",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -336,6 +272,40 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "c6dd4c8e5183907b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "de549d8ece546abf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -357,21 +327,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f49760db724daa18",
+  "active": "cb501ae28cd4b29d",
   "lastOpenFiles": [
-    "Chronicols of Darkness.md",
-    "home.md",
-    "IC_Notes/IC_Notes.md",
-    "IC_Notes/Unworked session notes/Session 1 Notes.md",
     "IC_Notes/Session 1 IC notes.md",
-    "Lore/World/Kingdom of Heartia.md",
-    "Lore/Institute and Factions/UMDA.md",
+    "IC_Notes/IC_Notes.md",
     "Random shit/Quest nr1.md",
-    "private/Myrthal Iandir.md",
-    "private/TARDIS NAMES.md"
+    "Session 2 notes.md",
+    "Untitled.md",
+    "Party Fund.md",
+    "Lucy.md",
+    "IC_Notes/Unworked session notes/Session 1 Notes.md",
+    "Detonation Surge.md",
+    "Enoki.md"
   ]
 }

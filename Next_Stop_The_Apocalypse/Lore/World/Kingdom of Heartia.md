@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Kingdom of Heartia
 
 Capital: [[Light, Radiant Citadel]] Ruler: [[Queen Aira Solar III, The Radiant Queen|Queen Aira Solar III]], Human

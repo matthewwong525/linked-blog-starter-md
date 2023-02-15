@@ -1,3 +1,9 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
 # Qho Prosperity Division
 The Qho Prosperity Division, QPD for short, is a massive guild that stretches the continent but is mainly based within the Republic of Ne. The QPD serves as a questing guild, a merchant guild and an artisan guild, which allows it to enforce free trade throughout the continent.
 ![[QPD Questing]]

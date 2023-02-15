@@ -1,3 +1,10 @@
+---
+Last Update : <%+ tp.file.last_modified_date() %>
+Creation date : <% tp.file.creation_date() %>
+tags : pre-prologue
+---
+
+
 quest labled regular dungeon cleanout.
 goal cleanout the dungeon called inverted spire.
 10 days out. we will clear out the first two floors and destroy the floor boss on floor 3. 
@@ -12,7 +19,7 @@ on the floors will be
 3rd floor will have a floor boss, which will be a bone devil. 
 floors might have changed to check map area. 
 new corridors are still being found even on dungeons that have reset many a times.
-chests have more powerfull and one of loot on the first iteration. any loot it yours to keep with a 10% cut on the money.
+chests have more powerfull and one of loot on the first iteration. any loot it yours to keep with a 10% cut on the money. specific payment information will come later on. 
 firsts group went to level 7 gold tier.
 second group to level 5 between silver and gold.
 

@@ -581,7 +581,8 @@ var DEFAULT_SETTINGS = {
   hpOverflow: "ignore",
   additiveTemp: false,
   logging: false,
-  logFolder: "/"
+  logFolder: "/",
+  integrateSRD: true
 };
 var XP_PER_CR = {
   "0": 0,
@@ -2804,6 +2805,12 @@ var InitiativeTrackerSettings = class extends import_obsidian4.PluginSettingTab 
     new import_obsidian4.Setting(containerEl).setName("Embed statblock-link content in the Creature View").setDesc("Prefer embedded content from a statblock-link attribute when present. Fall back to the TTRPG plugin if the link is missing and the plugin is enabled.").addToggle((t) => {
       t.setValue(this.plugin.data.preferStatblockLink).onChange(async (v) => {
         this.plugin.data.preferStatblockLink = v;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian4.Setting(containerEl).setName("Include 5e SRD").setDesc("The 5e SRD will be available for use in the Initiative Tracker.").addToggle((t) => {
+      t.setValue(this.plugin.data.integrateSRD).onChange(async (v) => {
+        this.plugin.data.integrateSRD = v;
         await this.plugin.saveSettings();
       });
     });
@@ -28829,7 +28836,7 @@ function add_css8(target) {
 }
 function get_each_context5(ctx, list, i) {
   const child_ctx = ctx.slice();
-  child_ctx[14] = list[i];
+  child_ctx[15] = list[i];
   return child_ctx;
 }
 function create_if_block_24(ctx) {
@@ -28973,9 +28980,9 @@ function create_each_block5(ctx) {
   let status;
   let current;
   function remove_handler() {
-    return ctx[9](ctx[14]);
+    return ctx[9](ctx[15]);
   }
-  status = new Status_default({ props: { status: ctx[14] } });
+  status = new Status_default({ props: { status: ctx[15] } });
   status.$on("remove", remove_handler);
   return {
     c() {
@@ -28989,7 +28996,7 @@ function create_each_block5(ctx) {
       ctx = new_ctx;
       const status_changes = {};
       if (dirty & 2)
-        status_changes.status = ctx[14];
+        status_changes.status = ctx[15];
       status.$set(status_changes);
     },
     i(local) {
@@ -29056,6 +29063,7 @@ function create_fragment9(ctx) {
   creaturecontrols.$on("click", click_handler_4);
   creaturecontrols.$on("tag", ctx[10]);
   creaturecontrols.$on("edit", ctx[11]);
+  creaturecontrols.$on("hp", ctx[12]);
   return {
     c() {
       td0 = element("td");
@@ -29276,6 +29284,9 @@ function instance9($$self, $$props, $$invalidate) {
   function edit_handler(event) {
     bubble.call(this, $$self, event);
   }
+  function hp_handler(event) {
+    bubble.call(this, $$self, event);
+  }
   $$self.$$set = ($$props2) => {
     if ("creature" in $$props2)
       $$invalidate(0, creature = $$props2.creature);
@@ -29298,7 +29309,8 @@ function instance9($$self, $$props, $$invalidate) {
     click_handler_2,
     remove_handler,
     tag_handler,
-    edit_handler
+    edit_handler,
+    hp_handler
   ];
 }
 var Creature3 = class extends SvelteComponent {
@@ -32560,7 +32572,7 @@ var TrackerView = class extends import_obsidian22.ItemView {
       this.creatures.forEach((creature, _, arr) => {
         const equiv = arr.filter((c) => equivalent(c, creature));
         equiv.forEach((eq) => {
-          eq.initiative = Math.max(...equiv.map((i) => i.initiative));
+          eq.initiative = equiv[0].initiative;
         });
       });
     }
@@ -34096,7 +34108,7 @@ var InitiativeTracker = class extends import_obsidian25.Plugin {
     return [...this.statblock_creatures, ...this.data.homebrew];
   }
   get bestiary() {
-    return [...BESTIARY, ...this.homebrew];
+    return [...this.data.integrateSRD ? BESTIARY : [], ...this.homebrew];
   }
   get view() {
     const leaves = this.app.workspace.getLeavesOfType(INTIATIVE_TRACKER_VIEW);
