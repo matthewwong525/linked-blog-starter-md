@@ -53,7 +53,7 @@
             }
           },
           {
-            "id": "57b18df36ca26eab",
+            "id": "5d40308ee0d77d53",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,7 +67,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2 notes.md",
+                "file": "Session 2 IC Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8f7b93f775f4a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bone Devil.md",
                 "mode": "source",
                 "source": false
               }
@@ -228,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 2 notes.md",
+                "file": "Session 2 IC Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 2 notes.md",
+                "file": "Session 2 IC Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -407,17 +428,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "57b18df36ca26eab",
+  "active": "5d40308ee0d77d53",
   "lastOpenFiles": [
-    "IC_Notes/Session 1 IC notes.md",
+    "Bone Devil.md",
     "Session 2 IC Notes.md",
+    "IC_Notes/Session 1 IC notes.md",
+    "Session 2 notes.md",
     "Squid Ink liquor.md",
     "ZTemplates/Spoiler.md",
-    "Session 2 notes.md",
     "IC_Notes/Unworked session notes/Session 1 Notes.md",
     "Untitled.md",
     "Lore/Spells&Items/Detonation Surge.md",
-    "Lore/Spells&Items/Spells&Items.md",
-    "UMDA Student Card.md"
+    "Lore/Spells&Items/Spells&Items.md"
   ]
 }
