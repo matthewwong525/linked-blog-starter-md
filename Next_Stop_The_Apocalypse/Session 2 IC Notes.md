@@ -11,10 +11,11 @@ After hearing the plan and the [[Quest nr1]] we discussed how to get more inform
 During this state of drunkenness Lucy managed to piss off the clerk who then cast [[calm emotions]] on us. During this high state I grabbed my student card and got lightning in the face from a version of the glyph of warding spell I apparently cast myself. The envelope was plastered with **DO NOT OPEN** After the lighting blast I got enough sense knocked into me to not open the envelope. 
 
 ### Library
-The library was [[PLACEHOLDER NAME Library]]
-
-## Spoiler test
+The library was [[PLACEHOLDER NAME Library]], When entering the library we where asked to present our [[QPD cards]] when trying to scan the [[UMDA Student Card]] it did not scan and let me past. We spend about 3 hours in the library for research. During this time I tried my student card again and it ended up working.
 <details>
   <summary>Spoilers</summary>
-  <p>text to hide</p>
+  <p>OC: Is this because this is not the first time Myrthal is in this library and his access was improperly revoked and this would explain why he had access to previous floors. </p>
 </details>
+
+This floor did not contain anything interesting except feyology and demonology. 
+when going back, I noticed a small button at the back 

@@ -6,33 +6,29 @@
       {
         "id": "08efb1b8a6f05d1c",
         "type": "tabs",
-        "dimension": 52.4798927613941,
+        "dimension": 67.02412868632707,
         "children": [
           {
             "id": "3bebd267d04c00dd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Squid Ink liquor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Squid Ink liquor.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Session 2 IC Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 2 IC Notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":54},\"to\":{\"line\":20,\"ch\":54}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2 IC Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -55,13 +51,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57b18df36ca26eab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "78696a524622f9ce",
         "type": "tabs",
-        "dimension": 47.520107238605895,
+        "dimension": 32.975871313672926,
         "children": [
           {
             "id": "cdbc83751b6868bf",
@@ -184,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -209,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 2 IC Notes.md",
+                "file": "Session 2 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 2 IC Notes.md",
+                "file": "Session 2 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,13 +407,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3bebd267d04c00dd",
+  "active": "57b18df36ca26eab",
   "lastOpenFiles": [
-    "Squid Ink liquor.md",
+    "IC_Notes/Session 1 IC notes.md",
     "Session 2 IC Notes.md",
+    "Squid Ink liquor.md",
     "ZTemplates/Spoiler.md",
     "Session 2 notes.md",
-    "IC_Notes/Session 1 IC notes.md",
     "IC_Notes/Unworked session notes/Session 1 Notes.md",
     "Untitled.md",
     "Lore/Spells&Items/Detonation Surge.md",
