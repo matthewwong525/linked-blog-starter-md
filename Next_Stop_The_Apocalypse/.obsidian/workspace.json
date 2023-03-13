@@ -4,103 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "08efb1b8a6f05d1c",
-        "type": "tabs",
-        "dimension": 67.02412868632707,
-        "children": [
-          {
-            "id": "3bebd267d04c00dd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Session 2 IC Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 2 IC Notes.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":54},\"to\":{\"line\":20,\"ch\":54}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "428625fc8bc3c66c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IC_Notes/Session 1 IC notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d40308ee0d77d53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2 IC Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c8f7b93f775f4a0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bone Devil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "78696a524622f9ce",
         "type": "tabs",
-        "dimension": 32.975871313672926,
         "children": [
           {
             "id": "cdbc83751b6868bf",
@@ -113,9 +18,21 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Myrthal Iandir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Myrthal Iandir.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":32},\"to\":{\"line\":58,\"ch\":32}},\"scroll\":53.75204491127405}"
+                },
+                {
+                  "title": "Characters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Session 2 notes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session 2 notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IC_Notes/Unworked session notes/Session 2 notes.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":46},\"to\":{\"line\":6,\"ch\":46}},\"scroll\":0}"
                 }
               ]
@@ -123,27 +40,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2 notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "11bae09e1646affd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -223,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e3c75992fbae58bf",
@@ -249,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 2 IC Notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 2 IC Notes.md",
+                "file": "IC_Notes/IC_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,12 +327,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5d40308ee0d77d53",
+  "active": "f49760db724daa18",
   "lastOpenFiles": [
-    "Bone Devil.md",
-    "Session 2 IC Notes.md",
+    "IC_Notes/Session 2 IC Notes.md",
+    "IC_Notes/IC_Notes.md",
+    "private/Myrthal Iandir.md",
+    "Characters/Characters.md",
+    "IC_Notes/Unworked session notes/Session 2 notes.md",
     "IC_Notes/Session 1 IC notes.md",
-    "Session 2 notes.md",
+    "Bone Devil.md",
     "Squid Ink liquor.md",
     "ZTemplates/Spoiler.md",
     "IC_Notes/Unworked session notes/Session 1 Notes.md",
