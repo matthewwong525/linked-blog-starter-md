@@ -14,7 +14,6 @@
   "obsidian-image-toolkit",
   "image-window",
   "initiative-tracker",
-  "obsidian-kanban",
   "media-extended",
   "table-extended",
   "obsidian-dice-roller",
@@ -29,5 +28,6 @@
   "obsidian-icon-shortcodes",
   "alx-folder-note-folderv",
   "obsidian-admonition",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-kanban"
 ]

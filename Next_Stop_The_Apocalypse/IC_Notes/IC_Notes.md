@@ -11,3 +11,4 @@ DO NOT READ THIS UNLESS YOU WANT POSSIBLE SPOILERS TO MIRTHAL's Backstory
 
 [[Session 1 Notes]]
 [[Session 2 notes]]
+[[Session 3 Notes]]

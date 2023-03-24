@@ -1,4 +1,4 @@
-# Session 2 notes
+# Session 2 Notes
 
 ~~heartsavers 1 point healing potions sold in novilty shops.~~
 

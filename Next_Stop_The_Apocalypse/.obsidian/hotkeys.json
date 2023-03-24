@@ -8,7 +8,8 @@
       "key": "T"
     }
   ],
-  "obsidian-kanban:toggle-kanban-view": [
+  "obsidian-kanban:toggle-kanban-view": [],
+  "obsidian-kanban:create-new-kanban-board": [
     {
       "modifiers": [
         "Mod",
