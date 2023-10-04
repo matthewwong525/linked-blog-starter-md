@@ -19,6 +19,7 @@ jobs:
         with:
           path: temp_blog
           repository: ${{ env.BLOG_REPO }}
+          token: ${{ secrets.PAT_TOKEN }} # Personal Access Token
       - name: Install obsidian-export
         run: |
           wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
@@ -27,6 +28,15 @@ jobs:
         run: |
           rm -rf temp_blog/common_md && mkdir temp_blog/common_md
           ./obsidian-export_Linux-x86_64.bin ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
+        # TODO: Update Github Author
+      - name: Commit and Push
+        run: |
+          cd temp_blog
+          git config user.name "Your Name"
+          git config user.email "Your Email"
+          git add .
+          git commit -m "Update content from Publish workflow"
+          git push origin main
       - name: Move blog dir to currDir
         run: |
           cp -r temp_blog/. .
