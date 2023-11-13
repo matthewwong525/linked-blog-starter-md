@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: matthewwong525/linked-blog-starter
+  BLOG_REPO: QuentinLemasson/Wiki-Galipette-Cendree-archi
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           path: temp_md
-      - name: Checkout linked blog starter repo
+      - name: Website Repo
         uses: actions/checkout@v3
         with:
           path: temp_blog
