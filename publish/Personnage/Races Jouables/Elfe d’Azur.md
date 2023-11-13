@@ -1,0 +1,1 @@
+Trait 1 : sens de la magie
