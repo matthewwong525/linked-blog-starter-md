@@ -1,5 +1,5 @@
 
 Para realizar o commit
 
-ctrl + p = beckup
+ctrl + p = backup
 
