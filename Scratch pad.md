@@ -77,3 +77,9 @@ Regards,
 
 Rajneesh S.
 ```
+
+
+### Oracle vm login from terminal
+```powershell
+ssh -i C:\Users\Neuvillette\Downloads\ssh-key-2025-09-17.key ubuntu@161.118.165.18
+```
