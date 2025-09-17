@@ -83,7 +83,7 @@ Rajneesh S.
 
 1. Set permissions for private key on win
 ```
-- **Set permissions for your private key**: The `ssh` command requires strict permissions on the private key file.
+The `ssh` command requires strict permissions on the private key file.
     
     - Right-click the private key file, select **Properties**, then go to the **Security** tab and click **Advanced**.
         
@@ -91,11 +91,13 @@ Rajneesh S.
         
     - Remove all permission entries except for your user account. Ensure your user account has **Full control**.
 ```
-1. login to the vm from any terminal
+
+2. login to the vm from any terminal
 ```powershell
 ssh -i C:\Users\Neuvillette\Downloads\ssh-key-2025-09-17.key ubuntu@161.118.165.18
 ```
-2. Install docker
+
+3. Install docker
 ```bash
 sudo dnf config-manager --add-repo=https://download.docker.com/linux/centos/docker-ce.repo
 sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
