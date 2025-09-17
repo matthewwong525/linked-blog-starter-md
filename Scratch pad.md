@@ -94,7 +94,7 @@ The `ssh` command requires strict permissions on the private key file.
 
 2. login to the vm from any terminal
 ```powershell
-ssh -i C:\Users\Neuvillette\Downloads\ssh-key-2025-09-17.key ubuntu@161.118.165.18
+ssh -i C:\Users\Neuvillette\Downloads\ssh-key-2025-09-17.key opc@161.118.165.18
 ```
 
 3. Install docker
