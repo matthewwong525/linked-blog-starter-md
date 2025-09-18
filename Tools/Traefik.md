@@ -34,9 +34,18 @@ networks:
   web:
     external: true
 ```
+
 2. Create a Shared Network and `acme.json`
 	1. Create a Docker network named `web` for your services:
 	```bash
 	docker network create web
 	```
 	2. Create the `acme.json` file where Traefik will store your SSL certificates. Set its permissions to be read-only for security.
+```bash
+mkdir traefik
+cd traefik
+touch acme.json
+chmod 600 acme.json
+```
+
+3. 
