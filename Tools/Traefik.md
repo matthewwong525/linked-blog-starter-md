@@ -48,4 +48,5 @@ touch acme.json
 chmod 600 acme.json
 ```
 
-3. 
+1. Modify the n8n `docker-compose.yml`
+	1. 
