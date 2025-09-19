@@ -1,5 +1,6 @@
-### [Reset all changes after last commit in git](https://stackoverflow.com/questions/4630312/reset-all-changes-after-last-commit-in-git)
+### Reset all changes after last commit in git
 **First, reset any changes**
+ref. https://stackoverflow.com/questions/4630312/reset-all-changes-after-last-commit-in-git
 This will undo any changes you've made to tracked files and restore deleted files:
 ```sh
 git reset HEAD --hard
