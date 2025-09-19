@@ -14,3 +14,7 @@ The `ssh` command requires strict permissions on the private key file.
 ```powershell
 ssh -i C:\Users\Neuvillette\Downloads\ssh-key-2025-09-18.key ubuntu@141.148.203.129
 ```
+
+### Traefik setup
+[[Traefik]]
+
