@@ -84,8 +84,6 @@ networks:
     external: true
 ```
 
-### Step 4: Launch the Services
-
-1. In your `traefik` directory, run `docker-compose up -d`. This will start Traefik.
-    
-2. In your `n8n` directory, run `docker-compose up -d`. This will start n8n.
+4. Launch the Services
+	1. In your `traefik` directory, run `docker-compose up -d`. This will start Traefik.
+	2. In your `n8n` directory, run `docker-compose up -d`. This will start n8n.
