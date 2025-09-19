@@ -1,4 +1,3 @@
-
 # Setup Steps
 
 1. Prepare the Traefik `docker-compose.yml` File
