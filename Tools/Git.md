@@ -13,7 +13,6 @@ git clean -fd
 ```
 Files that are not tracked due to `.gitignore` are preserved; they will not be removed
 _Warning_: using `-x` instead of `-fd` _would_ delete ignored files. You probably don't want to do this.
-
 ### Delete a branch
 ```sh
 git branch -d <branch-name>
@@ -31,6 +30,6 @@ git push --set-upstream origin <branch-name>
 ```
 
 ### Pull a specific branch
-```
+```sh
 git checkout -b B origin/B
 ```
