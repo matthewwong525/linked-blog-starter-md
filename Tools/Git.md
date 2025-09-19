@@ -30,7 +30,7 @@ We need to map the local branch to an upstream branch
 git push --set-upstream origin <branch-name>
 ```
 
-### pull a specific branch
+### Pull a specific branch
 ```
 git checkout -b B origin/B
 ```
