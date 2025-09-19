@@ -1,6 +1,6 @@
 ---
 title: My First Blog
-date:
-categories:
+date: 2025-09-19
+categories: Sample
 tags:
 ---
