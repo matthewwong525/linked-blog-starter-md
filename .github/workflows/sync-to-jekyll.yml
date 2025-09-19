@@ -1,0 +1,38 @@
+name: Sync to Jekyll
+
+on:
+  push:
+    branches:
+      - main # or whatever branch you use for your Obsidian notes
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Obsidian Vault
+        uses: actions/checkout@v4
+        with:
+          repository: rajneesh304/obsidian-sync # Replace with your repo name
+          token: ${{ secrets.JEKYLL_SYNC_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "rajneesh304"
+
+      - name: Clone Jekyll Repository
+        run: |
+          git clone --single-branch --branch main https://rajneesh304:${{ secrets.JEKYLL_SYNC_TOKEN }}@github.com/rajneesh304/rajneesh304.github.io.git
+          cd rajneesh304.github.io
+
+      - name: Copy Obsidian Notes to Jekyll Posts
+        run: |
+          mkdir -p rajneesh304.github.io/_posts
+          cp -r obsidian-sync/blogs/* rajneesh304.github.io/_posts/  # Assumes posts are in _posts folder in your vault
+
+      - name: Commit and Push Changes
+        run: |
+          cd rajneesh304.github.io
+          git add .
+          git commit -m "Automated sync from Obsidian vault"
+          git push
