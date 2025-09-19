@@ -2,6 +2,6 @@
 title: My First Blog
 date: 2025-09-19
 categories: [Sample]
-tags:[love]
+tags: [love]
 author: rajneesh304
 ---
