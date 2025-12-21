@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder.contains("Books")
+    order:
+      - title
+      - author
+      - link
+    image: note.coverUrl
+    imageAspectRatio: 1.7

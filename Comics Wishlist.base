@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder.contains("comics")
+    order:
+      - title
+      - link
+    sort:
+      - property: title
+        direction: ASC
+    image: note.coverUrl
+    imageAspectRatio: 0.85
+    imageFit: ""
+    cardSize: 250
